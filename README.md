@@ -1,6 +1,6 @@
-# microempreendedorismo
-Projeto de sustentabilidade para a Vila Prudente
-https://web.dio.me/articles/microempreendedorismo-na-vila-prudente
+# Microempreendedorismo na Vila Prudente
+Projeto de sustentabilidade para a Vila Prudente: CHAT BOT
+Artigo: https://web.dio.me/articles/microempreendedorismo-na-vila-prudente
 
 *Explicação do Projeto*
 
